@@ -13,6 +13,7 @@ And favorite languages not listed above...
 [![Praat script](https://img.shields.io/badge/Praat%20script-violet)](https://www.fon.hum.uva.nl/praat/manual/Scripting.html)
 [![Go template](https://img.shields.io/badge/Go%20template-teal)](https://pkg.go.dev/text/template)
 [![WebAssembly](https://img.shields.io/badge/WebAssembly-654EF0)](https://webassembly.org/)
+[![Filska](https://img.shields.io/badge/Filska-9acd32)](https://github.com/rkneusel9/StrangeCodeBook/blob/master/chapter_12/filska.py)
 
 ## Language Implementations and Tools
 
