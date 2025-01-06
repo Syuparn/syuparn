@@ -22,3 +22,4 @@ And favorite languages not listed above...
 [![tmplscript](https://github-readme-stats.vercel.app/api/pin/?username=syuparn&repo=tmplscript&theme=vue-dark)](https://github.com/syuparn/tmplscript)
 [![webawk](https://github-readme-stats.vercel.app/api/pin/?username=syuparn&repo=webawk&theme=vue-dark)](https://github.com/Syuparn/webawk)
 [![linerduper](https://github-readme-stats.vercel.app/api/pin/?username=syuparn&repo=linerduper&theme=vue-dark)](https://github.com/Syuparn/linerduper)
+[![cholc](https://github-readme-stats.vercel.app/api/pin/?username=syuparn&repo=cholc&theme=vue-dark)](https://github.com/Syuparn/cholc)
