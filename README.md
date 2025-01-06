@@ -1,6 +1,7 @@
 [![Qiita posts](https://qiita-badge.apiapi.app/s/syuparn/posts.svg)](http://qiita.com/syuparn)
 [![Qiita contributions](https://qiita-badge.apiapi.app/s/syuparn/contributions.svg)](http://qiita.com/syuparn)
 [![Zenn scraps](https://badgen.org/img/zenn/syuparn/scraps?style=plastic)](https://zenn.dev/syuparn?tab=scraps)
+[![Zenn likes](https://badgen.org/img/zenn/syuparn/likes?style=plastic)](https://zenn.dev/syuparn)
 
 I love creating and using programming languages!
 
