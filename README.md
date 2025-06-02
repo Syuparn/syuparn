@@ -1,5 +1,5 @@
-[![Qiita posts](https://qiita-badge.apiapi.app/s/syuparn/posts.svg)](http://qiita.com/syuparn)
-[![Qiita contributions](https://qiita-badge.apiapi.app/s/syuparn/contributions.svg)](http://qiita.com/syuparn)
+[![Qiita Articles](https://badgen.org/img/qiita/syuparn/articles?style=plastic)](https://qiita.com/syuparn)
+[![Qiita Contributions](https://badgen.org/img/qiita/syuparn/contributions?style=plastic)](https://qiita.com/syuparn)
 [![Zenn scraps](https://badgen.org/img/zenn/syuparn/scraps?style=plastic)](https://zenn.dev/syuparn?tab=scraps)
 [![Zenn likes](https://badgen.org/img/zenn/syuparn/likes?style=plastic)](https://zenn.dev/syuparn)
 
